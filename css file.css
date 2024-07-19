@@ -1,0 +1,25 @@
+img {
+vertical-align: middle;
+height: 100px;
+}
+
+.box{
+  width: 800px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 100px;
+  text-align: center;
+  letter-spacing: 1px;
+  margin: auto;
+  margin-top: 3%;
+}
+
+.box p{
+	vertical-align: middle;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: -10px;
+	font-size: 25px;
+	text-align: center;
+    text-align: justify-all;
+ 	letter-spacing: 4px;
+}
